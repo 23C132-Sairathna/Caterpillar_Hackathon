@@ -1,0 +1,6 @@
+Fuel Used (L),Load Cycles,Idling Time (min),Seatbelt Status,Safety Alert Triggered,Efficiency Score,Idle Ratio,Safety Score
+3.5,2,60,Unfastened,Yes,0.58,0.038,40
+4.8,7,15,Fastened,No,1.46,0.012,100
+2.9,1,55,Unfastened,Yes,0.34,0.035,35
+6.1,10,20,Fastened,No,1.65,0.014,95
+2.4,1,52,Unfastened,No,0.41,0.04,45

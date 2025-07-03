@@ -1,0 +1,6 @@
+operator_id,name,skill_level,assigned_tasks,username,password
+OP01,John Doe,Beginner,22,op1,pass1
+OP02,Alice Smith,Intermediate,16,op2,pass2
+OP03,Bob Lee,Advanced,19,op3,pass3
+OP04,Maria Gomez,Intermediate,18,op4,pass4
+OP05,Raj Patel,Advanced,18,op5,pass5
